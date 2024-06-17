@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\buscadados.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\buscadados.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\buscadados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\buscadados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.business\\relatoriobusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|solutionrelative:ceva.business\\relatoriobusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.business\\irelatoriobusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|solutionrelative:ceva.business\\irelatoriobusiness.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.dados\\icevaapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|solutionrelative:ceva.dados\\icevaapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.dados\\cevaapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|solutionrelative:ceva.dados\\cevaapi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C710AD56-17BA-44B5-9C25-134577A433FA}|Ceva.Teste\\Ceva.Teste.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva.teste\\relatoriobusinesstest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C710AD56-17BA-44B5-9C25-134577A433FA}|Ceva.Teste\\Ceva.Teste.vbproj|solutionrelative:ceva.teste\\relatoriobusinesstest.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.dados\\ceva.dados.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|solutionrelative:ceva.dados\\ceva.dados.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.dados\\ceva.dados.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A8CDC35-4B4E-43AB-9085-34DB56B1BFBE}|Ceva.Dados\\Ceva.Dados.vbproj|solutionrelative:ceva.dados\\ceva.dados.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.business\\model\\viagem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|solutionrelative:ceva.business\\model\\viagem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\ceva\\global.asax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|Ceva\\Ceva.vbproj|solutionrelative:ceva\\global.asax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|c:\\users\\vinicius oliveira\\source\\repos\\consultadados\\ceva.business\\model\\relatorio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DA117C36-7F49-462A-8516-E5081D963A0A}|Ceva.Business\\Ceva.Business.vbproj|solutionrelative:ceva.business\\model\\relatorio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRelatorioBusiness.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\IRelatorioBusiness.vb",
+              "RelativeDocumentMoniker": "Ceva.Business\\IRelatorioBusiness.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\IRelatorioBusiness.vb",
+              "RelativeToolTip": "Ceva.Business\\IRelatorioBusiness.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-17T23:18:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Relatorio.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\Model\\Relatorio.vb",
+              "RelativeDocumentMoniker": "Ceva.Business\\Model\\Relatorio.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\Model\\Relatorio.vb",
+              "RelativeToolTip": "Ceva.Business\\Model\\Relatorio.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T20:53:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Viagem.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\Model\\Viagem.vb",
+              "RelativeDocumentMoniker": "Ceva.Business\\Model\\Viagem.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\Model\\Viagem.vb",
+              "RelativeToolTip": "Ceva.Business\\Model\\Viagem.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T20:53:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CevaApi.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\CevaApi.vb",
+              "RelativeDocumentMoniker": "Ceva.Dados\\CevaApi.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\CevaApi.vb",
+              "RelativeToolTip": "Ceva.Dados\\CevaApi.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T20:01:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelatorioBusiness.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\RelatorioBusiness.vb",
+              "RelativeDocumentMoniker": "Ceva.Business\\RelatorioBusiness.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Business\\RelatorioBusiness.vb",
+              "RelativeToolTip": "Ceva.Business\\RelatorioBusiness.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T19:30:37.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ceva.Dados",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\Ceva.Dados.vbproj",
+              "RelativeDocumentMoniker": "Ceva.Dados\\Ceva.Dados.vbproj",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\Ceva.Dados.vbproj",
+              "RelativeToolTip": "Ceva.Dados\\Ceva.Dados.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-13T20:18:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICevaApi.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\ICevaApi.vb",
+              "RelativeDocumentMoniker": "Ceva.Dados\\ICevaApi.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\ICevaApi.vb",
+              "RelativeToolTip": "Ceva.Dados\\ICevaApi.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-15T01:31:06.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ceva.Dados.vbproj",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\Ceva.Dados.vbproj",
+              "RelativeDocumentMoniker": "Ceva.Dados\\Ceva.Dados.vbproj",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Dados\\Ceva.Dados.vbproj",
+              "RelativeToolTip": "Ceva.Dados\\Ceva.Dados.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-14T20:24:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Site.Master",
+              "RelativeDocumentMoniker": "Ceva\\Site.Master",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Site.Master",
+              "RelativeToolTip": "Ceva\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T00:59:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuscaDados.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\BuscaDados.aspx.vb",
+              "RelativeDocumentMoniker": "Ceva\\BuscaDados.aspx.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\BuscaDados.aspx.vb",
+              "RelativeToolTip": "Ceva\\BuscaDados.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-13T20:16:32.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelatorioBusinessTest.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Teste\\RelatorioBusinessTest.vb",
+              "RelativeDocumentMoniker": "Ceva.Teste\\RelatorioBusinessTest.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva.Teste\\RelatorioBusinessTest.vb",
+              "RelativeToolTip": "Ceva.Teste\\RelatorioBusinessTest.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-14T20:16:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Default.aspx",
+              "RelativeDocumentMoniker": "Ceva\\Default.aspx",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Default.aspx",
+              "RelativeToolTip": "Ceva\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:09:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuscaDados.aspx",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\BuscaDados.aspx",
+              "RelativeDocumentMoniker": "Ceva\\BuscaDados.aspx",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\BuscaDados.aspx",
+              "RelativeToolTip": "Ceva\\BuscaDados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:15:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Contact.aspx",
+              "RelativeDocumentMoniker": "Ceva\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Contact.aspx",
+              "RelativeToolTip": "Ceva\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:17:58.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Web.config",
+              "RelativeDocumentMoniker": "Ceva\\Web.config",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Web.config",
+              "RelativeToolTip": "Ceva\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T20:25:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.vb",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Global.asax.vb",
+              "RelativeDocumentMoniker": "Ceva\\Global.asax.vb",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Global.asax.vb",
+              "RelativeToolTip": "Ceva\\Global.asax.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-14T02:08:21.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\packages.config",
+              "RelativeDocumentMoniker": "Ceva\\packages.config",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\packages.config",
+              "RelativeToolTip": "Ceva\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T02:08:25.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Bundle.config",
+              "RelativeDocumentMoniker": "Ceva\\Bundle.config",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Bundle.config",
+              "RelativeToolTip": "Ceva\\Bundle.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T02:08:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Ceva\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\Vinicius Oliveira\\source\\repos\\ConsultaDados\\Ceva\\Site.Mobile.Master",
+              "RelativeToolTip": "Ceva\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T02:09:01.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

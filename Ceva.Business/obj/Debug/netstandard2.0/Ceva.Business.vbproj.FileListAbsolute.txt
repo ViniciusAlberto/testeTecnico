@@ -1,0 +1,17 @@
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\Ceva.Business.deps.json
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\Ceva.Business.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\Ceva.Business.pdb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\Ceva.Dados.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\Ceva.Dados.pdb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.vbproj.AssemblyReference.cache
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.AssemblyInfoInputs.cache
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.AssemblyInfo.vb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.vbproj.CoreCompileInputs.cache
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Bus.7757358F.Up2Date
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\obj\Debug\netstandard2.0\Ceva.Business.pdb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Business\bin\Debug\netstandard2.0\System.Security.xml

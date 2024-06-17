@@ -1,0 +1,15 @@
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\Ceva.Dados.deps.json
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\Ceva.Dados.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\Ceva.Dados.pdb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.vbproj.AssemblyReference.cache
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.AssemblyInfoInputs.cache
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.AssemblyInfo.vb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.vbproj.CoreCompileInputs.cache
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.pdb
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Vinicius Oliveira\source\repos\ConsultaDados\Ceva.Dados\obj\Debug\netstandard2.0\Ceva.Dados.vbproj.Up2Date
